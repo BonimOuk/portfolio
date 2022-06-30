@@ -1,0 +1,12 @@
+h1 {
+  color: blue;
+}
+
+.text {
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#heading {
+  font-style: italic;
+}
